@@ -11,7 +11,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "graphql-yoga": "^1.16.9"
+    "add": "^2.0.6",
+    "bcryptjs": "^2.4.3",
+    "global": "^4.3.2",
+    "graphql-yoga": "^1.16.9",
+    "jsonwebtoken": "^8.4.0",
+    "prisma": "^1.23.4",
+    "prisma-client-lib": "^1.23.4"
   },
   "devDependencies": {
     "nodemon": "^1.18.9"
